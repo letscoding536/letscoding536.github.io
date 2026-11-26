@@ -17,9 +17,8 @@ latest_posts:
 
 ## About
 
-Hello! My name is HoYoung Jung. I am a student interested in computer science and software development.
+My name is HoYoung Jung.
 
-I enjoy learning new technologies, solving problems, and building projects that help me improve my programming skills.
 
 ## Education
 
